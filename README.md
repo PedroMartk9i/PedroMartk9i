@@ -2,7 +2,8 @@
 
 <!--
 **PedroMartk9i/PedroMartk9i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://co.pinterest.com/pin/332281278751571506/" target="blank"><img align="center"
+<a href="AkumGif/" target="blank"><img align="center"
+src="https://co.pinterest.com/pin/332281278751571506/" height="100" /></a>
 
 Here are some ideas to get you started:
 
