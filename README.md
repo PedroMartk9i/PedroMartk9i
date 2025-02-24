@@ -1,6 +1,7 @@
 ## Hi everyone👋, Im Pedro Martinez
-<a href="AkumGif/" target="blank"><img align="center"
-src="C:\Users\Maest\OneDrive\Escritorio\Us\Academicos\cv\GithubCV\PedroMartk9i\images\AkumaGif" height="100" /></a>
+
+<a href="AkumGif" target="blank"><img align="center"
+src="images\AkumaGif" height="100" /></a>
 
 <!--
 **PedroMartk9i/PedroMartk9i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
