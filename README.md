@@ -5,6 +5,7 @@ This is My GitHub Space, Here you will find Personal Works & College Works
 I'm Current Systems Engineering student. I am passionate about Data Science, Artificial Intelligence Research and Web Development. 
 I love to apply the philosophical vision of System dynamics in my work to always be clear about the workflow.
 
+[![GitHub Streak](https://streak-stats.demolab.com/PedroMartk9i=DenverCoder1)](https://git.io/streak-stats)
 <!--
 **PedroMartk9i/PedroMartk9i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
