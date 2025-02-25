@@ -4,8 +4,10 @@ This is My GitHub Space, Here you will find Personal Works & College Works
 ## About me
 I'm Current Systems Engineering student. I am passionate about Data Science, Artificial Intelligence Research and Web Development. 
 I love to apply the philosophical vision of System dynamics in my work to always be clear about the workflow.
-🌱 I’m currently learning Angular JS.
-👯 I’m looking to collaborate on Web Development and Machine Learning.
+
+## Whats going on?
+🌱 I’m currently learning Angular JS. <br />
+👯 I’m looking to collaborate on Web Development and Machine Learning.<br />
 📫 How to reach me: pedroestebanmarsan@gmail.com
 
 ## GitHub Streak!
